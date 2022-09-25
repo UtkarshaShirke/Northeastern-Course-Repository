@@ -21,6 +21,19 @@ Future career outcomes post-degree completion.
 
 We aspire to help learners through our initiative by helping them collate the resources they need to navigate their course. 
 
+Questions that the database should answer: 
+
+1. What are the programs offered by the College of Engineering? 
+2. Which courses are covered under each program? 
+3. What is the duration of these programs?
+4. What are the program’s learning outcomes?
+5. What are the specializations/concentrations available in every program?
+6. What are the resources/videos, practice, and study material(books, articles, websites) available for a particular course? 
+7. Which resources are free and which are paid?
+8. What are the tools/IDEs needed to practice? How to find and download these? 
+9. Who can I contact to learn more about this program? 
+10. What are the career paths and opportunities available after program completion?
+
 Strategy:
 
 We are planning to web scrape the NEU’s website and other educational platforms extensively to gather data. 
